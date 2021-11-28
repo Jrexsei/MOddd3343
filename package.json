@@ -1,0 +1,19 @@
+{
+  "name": "fraudmod",
+  "version": "0.0.1",
+  "description": "",
+  "main": "fraud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fraud",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3",
+    "wio.db": "^4.0.21"
+  }
+}

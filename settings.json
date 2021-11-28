@@ -1,0 +1,51 @@
+{
+  "sahip": "Sahip ID",
+  "prefix": "Prefix",
+  "voiceChannel": "Ses Kanal ID",
+  "token": "Token",
+  "guildID": "Sunucu ID",
+  
+  "no": "<:tickNo:850426436934041610> ",
+  "yes": "<:tickYes:850426418000297995>",
+  
+  "botCommands": "botkomut_yetkili ID",
+  "transport": "Transport_yetkili ID",
+
+"banHammer": "ban_yetkili ID",
+"kickHammer": "kick_yetkili ID",
+"muteHammer": "mute_yetkili ID",
+"vmuteHammer": "vmute_yetkili ID",
+"jailHammer": "jail_yetkili ID",
+  
+  "jailRol": "Jail Rol ID",
+  "muteRol": "Mute Rol ID",
+  "vmuteRol": "Vmute Rol ID", 
+  
+  
+  "banLog": "Ban Log ID",
+  "muteLog": "Mute Log ID",
+  "vmuteLog": "Vmute Log ID",
+  "jailLog": "Jail Log ID",
+  "kickLog":"Kick Log ID",
+  
+  "tagRol": "Taglı Rol ID",
+  "tagLog": "Tag Log ID",
+  "tag": "TAG",
+  "unTag": "•",
+ 
+  
+  "enAltYetkiliRol": "Altyetki_Rol ID",
+  "kayıtsız": "Kayıtsız Rol ID",
+
+  "pubID": "Public Ses ID", 
+  "privID": "Priv  Ses ID",
+  "teyitID":"Teyit Ses ID",
+  "aloneID":"Alone Ses ID",
+
+  "genelChat": "Genel Chat ID",
+  "sesLogKanali": "Ses Log ID",
+
+  "banLimit" : 5,  //önerdiğim 3-5 limit
+  "kickLimit": 5   //önerdiğim 3-5 limit
+  
+}
